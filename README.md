@@ -20,4 +20,4 @@ Utilize the directional pad to navigate the ancient forest and "B" button for co
 
 # Special Thanks
 
-Developed with the flickuboy game engine. Special thanks goes out to Felipe Manga for the wonderful Arduboy emulator, displayed in all its glory here!
+Developed with the flickuboy game engine with additional added features (compass, d-pad navigation, a more robust dialogue system). Special thanks goes out to Felipe Manga for the wonderful Arduboy emulator, displayed in all its glory here!
